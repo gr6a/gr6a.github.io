@@ -4,7 +4,7 @@ title: 'vue axios'
 date: 2019-04-23
 author: Gra
 cover: ''
-tags: vue axios 
+tags: vue swiper vue-awesome-swiper
 ---
 
 最近有个需求要做h5
