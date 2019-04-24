@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'vue axios'
+title: 'vue swiper'
 date: 2019-04-23
 author: Gra
 cover: ''
