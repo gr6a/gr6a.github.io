@@ -52,7 +52,7 @@ postPatterns: 'ticTacToe'
 sns:
   weibo: '//weibo.com/sgra'
   zhihu: 'www.zhihu.com/people/graaaaaa'
-  github: '//github.com/kaeyleo'
+  github: '//github.com/gr6a'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
