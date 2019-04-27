@@ -1,7 +1,7 @@
 
 # Site settings 配置站点
 title: 'Graaaaaaa'
-description: 'Gra，前端开发者/伪极客/灵魂摄影师，爱生活，爱自由，爱我们'
+description: 'Gra，前端开发者/伪极客/无牌无证飞手/铲屎官，爱生活，爱自由，爱我们'
 keyword: 'Gra,  前端, 前端开发, 前端博客'
 url: '' # your host
 
@@ -20,7 +20,7 @@ footer:
 # Author 配置博主信息
 author: 'Gra'
 nickname: 'Graaaaaa'
-bio: '伪前端，伪极客，无牌无证飞手，爱生活，爱自由，爱我们'
+bio: '前端开发者/伪极客/无牌无证飞手/铲屎官，爱生活，爱自由，爱我们'
 avatar: '/assets/img/profile.png'
 
 # Search
