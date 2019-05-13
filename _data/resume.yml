@@ -1,0 +1,56 @@
+title: Gra's resume
+name: Gra
+jobtitle: Front End Developer
+contact:
+  - icon: fa-envelope
+    text: g*******@qq.com
+  - icon: fa-phone-square
+    text:  (+86)186*******4
+  - icon: fa-globe
+    text: gr6a.github.io
+    link: https://gr6a.github.io
+  - icon: fa-github
+    text: My github
+    link: https://github.com/gr6a
+education:
+  - university: Chengyi University College,Jimei University
+    duration: Sep 2011 - Jun 2015
+    location: Xiamen, China
+    major: Mechatronics Engineering
+
+skills:
+  - title: Front End Skill
+    items: Familiar with HTML,CSS,JQuery,HTML5,CSS3,JavaScript,VUE-cli3,Swiper,Echart.js,markdown
+  - title: Data and Backend Skill
+    items: Familiar with PHP and Mysql
+  - title: Tool Skill
+    items: Familiar with Visual Studio Code, Dreamveaver,Photoshop
+experience:
+  - title: Front End Development
+    duration: Mar 2015 - Aug 2017
+    company: Leju Information Service Co., Ltd.
+    description: <strong>Responsibilities:</strong></br>1. Familiar with HTML5 and CSS3</br>2. Familiar with jQuery and JavaScript</br>3. Design the website according to the UI Design Draft </br>4. Build the advertising websites for mobile devices </br>5.	Interact data with backend engineer according to the Ajax
+  - title: Front End Development
+    duration: Sep 2017 - Nov 2017
+    company: Fuzhou Fuda Jingwei Information Technology Co., Ltd  
+    description: <strong>Responsibilities:</strong></br>1. Familiar with HTML5 and CSS3</br>2. Familiar with JQuery and JavaScript</br>3. Familiar with Bootstrap</br>4. Familiar with Echarts.js </br> 5. develop the new system:Water Pollution System For Water Resources Department 
+  - title: Front End Developer && Operations Engineer
+    duration: May 2018 - Now
+    company: Fujian Longfu Electromechanical Wholesale Market Co., Ltd
+    description: <strong>Responsibilities:</strong></br>1. Familiar with HTML5 and CSS3</br>2. Familiar with JQuery and JavaScript</br>3. Familiar with Bootstrap</br>4. Familiar with PHP </br> 5.	Maintain and monitored system, and upgrade new feature to website </br>6. Design the website according to the UI Design Draft </br> 7. Develop the new website:LOFFUMRO
+projects:
+  - name: 2019 The 3rd Langlang Shenzhen Futian International Piano Festival Website
+    duration: Mar 2018 - Sep 2018
+    link: http://llpf.langlangpianofestival.com
+    description: <strong>Development language:</strong>ThinkPHP,HTML,CSS</br>&#8226 Use Jquery and JS build the whole website</br>&#8226 Use the Bootstrap as the main UI frame in the website</br>&#8226 Use thinkphp as the backend frame</br>&#8226 Use thinkphp as the backend frame</br>&#8226 Use Aliyunvod API to build Video Service
+    contribution: Creator and maintainer.
+  - name: 2019 The 3rd Langlang Shenzhen Futian International Piano Festival Webpage for Wechat
+    link: http://weixin.langlangpianofestival.com/pfh5/index.php
+    duration: Apr 2019
+    description: <strong>Development language:</strong>VUE,HTML5,CSS3</br>&#8226 Use vue and swiper to build the Webpage </br>&#8226 Use AXIOS to to interactive data with backend
+    contribution: Creator and maintainer.
+languages:
+  - name: English
+    proficiency: Basic </br>IELTS 4.5
+  - name: Mandarin Chinese
+    proficiency: Native
