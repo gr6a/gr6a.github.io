@@ -37,14 +37,14 @@ experience:
     duration: "2018/05 - 2019/05"
     company: "福建龙福机电批发市场有限公司"
     description: "主要负责线上服务的更新监控维护 官网改版 线上商城系统监控维护 微信功能开发 自有站点的改版"
-    - title: "UIweb前端"
+  - title: "UIweb前端"
     duration: "2019/06 - 现在"
     company: "长威信息科技发展股份有限公司"
     description: "UI前端 主要负责可视化大屏设计稿还原、APP、weapp页面还原"
 projects:
   - name: XX应急综合管理平台项目
     duration: 2019/06 - 现在
-    description: layui+html (可视化大屏、后台、APP)页面还原、页面样式规范化、页面优化 
+    description: layui+html (可视化大屏、后台、APP)页面还原、页面样式规范化、页面优化
     contribution: 前端页面
   - name: XX智慧城市项目
     duration: 2019/06 - 现在
