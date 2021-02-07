@@ -44,12 +44,12 @@ experience:
 projects:
   - name: XX区综合APP
     duration: 2020/12 - 现在
-    description: vue+vant
-    contribution: 完整前端页面效果实现输出、页面规范化
+    description: 完整前端页面效果实现输出、页面规范化
+    contribution: vue+vant 
   - name: XX园区管理
     duration: 2020/12 - 现在
     description: 完整vue+element 后台管理、可视化大屏页面输出、页面规范化
-    contribution: 前端页面
+    contribution: vue+element
   - name: XX疫情防控项目
     duration: 2019/06 - 现在
     description: layui+html (可视化大屏、后台、APP)页面还原、页面样式规范化、页面优化
