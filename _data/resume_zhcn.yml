@@ -3,9 +3,9 @@ name: "Gra"
 jobtitle: "Web前端"
 contact:
   - icon: fa-envelope
-    text: graaaaaa@qq.com
+    text: *******@qq.com
   - icon: fa-phone-square
-    text: (+86)18659122334
+    text: (+86)186******
   - icon: fa-globe
     text: gr6a.github.io
     link: https://gr6a.github.io
