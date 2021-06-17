@@ -1,11 +1,11 @@
 title: "简历"
-name: "Gra"
+name: "毛信凯"
 jobtitle: "Web前端"
 contact:
   - icon: fa-envelope
-    text: *@qq.com
+    text: graaaaaa@qq.com
   - icon: fa-phone-square
-    text: (+86)186********
+    text: (+86)13960754361
   - icon: fa-globe
     text: gr6a.github.io
     link: https://gr6a.github.io
@@ -35,19 +35,28 @@ experience:
     duration: "2018/05 - 2019/05"
     company: "福建龙福机电批发市场有限公司"
     description: "主要负责线上服务的更新监控维护 官网改版 线上商城系统监控维护 微信功能开发 自有站点的改版"
-  - title: "UI前端"
+  - title: "前端"
     duration: "2019/06 - 现在"
     company: "长威信息科技发展股份有限公司"
-    description: "UI前端 主要负责可视化大屏设计稿还原、APP、weapp页面还原 vue页面、页面UI组件"
+    description: "偏UI前端 主要负责可视化大屏设计稿还原、APP、weapp页面还原 vue页面、页面UI组件 vue\uniapp\element\weapp\vant\html\css "
 projects:
+  
   - name: XX区综合APP
     duration: 2020/11 - 现在
     description: 完整前端页面效果实现输出、页面规范化
-    contribution: vue+vant 
+    contribution: vue(vant)
+  - name: XX智慧政法APP
+    duration: 2021/5 - 2021/5
+    description: 完整前端页面效果实现输出、页面规范化
+    contribution: vue(vant)
   - name: XX园区管理
     duration: 2020/12 - 现在
-    description: 完整vue+element 后台管理、可视化大屏页面输出、页面规范化
-    contribution: vue+element
+    description: 完整vue+element 后台管理、可视化大屏页面还原、页面规范化
+    contribution: vue(element)
+  - name: 能力平台
+    duration: 2020/09 - 现在
+    description: 前端重构、通用组件分钟、页面规范化
+    contribution: vue(element)
   - name: XX疫情防控项目
     duration: 2020/02 - 现在
     description: layui+html (可视化大屏、后台、APP)页面还原、页面样式规范化、页面优化
@@ -58,26 +67,26 @@ projects:
     contribution: 前端页面
   - name: XX智慧城市项目
     duration: 2019/06 - 现在
-    description: layui+html (可视化大屏、后台)页面还原、页面优化
+    description: html (可视化大屏、后台)页面还原、页面优化
     contribution: 前端页面
   - name: XX幸福通
     duration: 2020/02 - 2020/03
-    description: vue+vant 页面还原
+    description: vue(vant)页面还原
     contribution: 前端页面
   - name: 社区APP产品
     duration: 2019/11 - 2020/01
-    description: ionic flexable H5页面还原、页面组件化
+    description: ionic 页面还原、页面组件化
     contribution: 前端页面
-  - name: Tenco H5
+  - name: Tenco
     duration: 2020/03 - 2020/03
-    description: vue+vant flexable 页面
+    description: vue(vant)页面
     contribution: 前端页面
 languages:
   - name: "英语"
-    proficiency: "一般/雅思G类：4.5"
+    proficiency: "一般/雅思G类：4.5(过期)"
   - name: "中文"
     proficiency: "母语"
 resume:
-  - content: "不叫美工，也不是美工。需要规范化，组件化。"
+  - content: "啥都能干,也啥都想干,需要成长。"
 
 
