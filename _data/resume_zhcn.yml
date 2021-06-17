@@ -19,9 +19,9 @@ education:
     major: "本科，机械电子工程"
 skills:
   - title: "前端"
-    items: "HTML,CSS,HTML5,CSS3,JavaScript,JQuery,layui,vue(vant/element/antdesign),ionic,markdown"
+    items: "HTML,CSS,Js,Jq,layui,vue(vant/element/antdesign),ionic,markdown,svn"
   - title: "工具"
-    items: "VScode,WebStrom,git,Photoshop,蓝湖"
+    items: "VScode,WebStrom,git,svn,Photoshop,蓝湖"
 experience:
   - title: "web前端"
     duration: "2015/03 - 2017/08"
@@ -30,17 +30,16 @@ experience:
   - title: "web前端"
     duration: "2017/09 - 2017/11"
     company: "福州福大经纬信息科技有限公司"
-    description: "主要负责前端页面优化 协助完成水环境信息系统 污染源信息系统等"
+    description: "前端页面优化 协助完成水环境信息系统 污染源信息系统等"
   - title: "web前端&&运维"
     duration: "2018/05 - 2019/05"
     company: "福建龙福机电批发市场有限公司"
-    description: "主要负责线上服务的更新监控维护 官网改版 线上商城系统监控维护 微信功能开发 自有站点的改版"
+    description: "线上服务的更新监控维护 官网改版 线上商城系统监控维护 微信功能开发 自有站点的改版"
   - title: "前端"
     duration: "2019/06 - 现在"
     company: "长威信息科技发展股份有限公司"
-    description: "偏UI前端 主要负责可视化大屏设计稿还原、APP、weapp页面还原 vue页面、页面UI组件 vue\uniapp\element\weapp\vant\html\css "
+    description: "偏UI前端 可视化大屏设计稿还原、APP、weapp页面还原 vue页面、页面UI组件 vue\uniapp\element\weapp\vant\html\css "
 projects:
-  
   - name: XX区综合APP
     duration: 2020/11 - 现在
     description: 完整前端页面效果实现输出、页面规范化
@@ -87,6 +86,6 @@ languages:
   - name: "中文"
     proficiency: "母语"
 resume:
-  - content: "啥都能干,也啥都想干。正在成长，需要成长。 html/css/jq/js/less/scss/vue/weapp/uniapp/element/vant/antd"
+  - content: "啥都能干,也啥都想干。正在成长，需要成长。 "
 
 
