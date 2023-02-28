@@ -3,16 +3,16 @@ name: "毛信凯"
 jobtitle: "Web前端"
 contact:
   - icon: fa-envelope
-    text: graaaaaa@qq.com
+    text: 123@123.com
   - icon: fa-phone-square
-    text: (+86)13960754361
+    text: (+86)13123456789
   - icon: fa-globe
     text: gr6a.github.io
     link: https://gr6a.github.io
 
 education:
-  - university: "集美大学诚毅学院"
-    duration: "2011/09 - 2015/06"
+  - university: "XXXXXXX"
+    duration: "1900/01 - 1900/01"
     location: "厦门"
     major: "本科，机械电子工程"
 skills:
@@ -22,35 +22,35 @@ skills:
     items: "VScode,WebStrom,Photoshop"
 experience:
   - title: "web前端"
-    duration: "2015/03 - 2017/08"
-    company: "乐居（控股）有限公司"
+    duration: "1900/01 - 1900/01"
+    company: "XXXXXXX有限公司"
     description: "PC、移动端H5页面切图"
   - title: "web前端"
-    duration: "2017/09 - 2017/11"
-    company: "福州福大经纬信息科技有限公司"
+    duration: "1900/01 - 1900/01"
+    company: "福州XXXXXXX有限公司"
     description: "前端页面优化"
   - title: "web前端 & 运维"
-    duration: "2018/05 - 2019/05"
-    company: "福建龙福机电批发市场有限公司"
+    duration: "1900/01 - 1900/01"
+    company: "福建XXXXXXX有限公司"
     description: "线上服务的更新监控维护 官网改版 线上商城系统监控维护 微信功能开发 "
   - title: "前端"
-    duration: "2019/06 - 现在"
-    company: "长威信息科技发展股份有限公司"
+    duration: "1900/01 - 现在"
+    company: "XXXXXXX有限公司"
     description: "UI前端;可视化大屏、APP(H5)、weapp设计页面的还原 vue页面、页面UI组件(html,css,vue,uniapp,weapp,element,vant,antd)"
 projects:
-  - name: 城市运营产品项目
+  - name: XXXXXXX项目
     duration:
     description: 产品后台项目，完整前端页面效果实现输出、页面整体规范化、elementUI二开封装
     contribution: vue(qiankun\element)
-  - name: 福建省12345项目
+  - name: XXXXXXX项目
     duration:
     description: 完整前端页面（后台\大屏）效果实现输出、页面整体规范化
     contribution: vue(qiankun\element)\Html
-  - name: 党建治理综合平台
+  - name: XXXXXXX平台
     duration:
     description: 完整前端页面输出、页面整体规范化
     contribution: vue(qiankun\element)\Html
-  - name: 福建省数字应急综合管理平台
+  - name: XXXXXXX平台
     duration:
     description: 前端页面（后台\大屏）效果实现切图输出
     contribution: Html
