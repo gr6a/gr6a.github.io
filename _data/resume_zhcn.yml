@@ -40,7 +40,7 @@ experience:
 projects:
   - name: 城市运营产品项目
     duration:
-    description: 产品后台项目，完整前端页面效果实现输出、页面整体规范化、elementUI二开
+    description: 产品后台项目，完整前端页面效果实现输出、页面整体规范化、elementUI二开封装
     contribution: vue(qiankun\element)
   - name: 福建省12345项目
     duration:
@@ -48,11 +48,11 @@ projects:
     contribution: vue(qiankun\element)\Html
   - name: 党建治理综合平台
     duration:
-    description: 完整前端页面输出
+    description: 完整前端页面输出、页面整体规范化
     contribution: vue(qiankun\element)\Html
   - name: 福建省数字应急综合管理平台
     duration:
-    description: html切图
+    description: 前端页面（后台\大屏）效果实现切图输出
     contribution: Html
 
 languages:
