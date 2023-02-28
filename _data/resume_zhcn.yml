@@ -24,27 +24,27 @@ experience:
   - title: "web前端"
     duration: "2015/03 - 2017/08"
     company: "乐居（控股）有限公司"
-    description: "html css pc移动端切图"
+    description: "html\css移动端切图"
   - title: "web前端"
     duration: "2017/09 - 2017/11"
     company: "福州福大经纬信息科技有限公司"
     description: "前端页面优化"
-  - title: "web前端&&运维"
+  - title: "web前端&运维"
     duration: "2018/05 - 2019/05"
     company: "福建龙福机电批发市场有限公司"
     description: "线上服务的更新监控维护 官网改版 线上商城系统监控维护 微信功能开发 "
   - title: "前端"
     duration: "2019/06 - 现在"
     company: "长威信息科技发展股份有限公司"
-    description: "UI前端；可视化大屏、APP()、weapp设计页面的还原 vue页面、页面UI组件(html,css,vue,uniapp,weapp,element,vant,antd)"
+    description: "UI前端;可视化大屏、APP(H5)、weapp设计页面的还原 vue页面、页面UI组件(html,css,vue,uniapp,weapp,element,vant,antd)"
 projects:
   - name: 城市运营产品项目
     duration:
-    description: 产品后台项目，完整前端页面效果实现输出、页面规范化、elementUI二开
+    description: 产品后台项目，完整前端页面效果实现输出、页面整体规范化、elementUI二开
     contribution: vue(qiankun\element)
   - name: 福建省12345项目
     duration:
-    description: 完整前端页面（后台\大屏）效果实现输出、页面规范化
+    description: 完整前端页面（后台\大屏）效果实现输出、页面整体规范化
     contribution: vue(qiankun\element)\Html
   - name: 党建治理综合平台
     duration:
@@ -61,6 +61,6 @@ languages:
   - name: "英语"
     proficiency: "一般/雅思G：4.5"
 resume:
-  - content: "良好的抗压能力及适应力、良好的自我学习能力"
+  - content: "良好的抗压能力、适应力和自我学习能力"
 
 
